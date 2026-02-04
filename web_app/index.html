@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reddit Pulse | Insight Visualizer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+    <div class="background-globes">
+        <div class="globe globe-1"></div>
+        <div class="globe globe-2"></div>
+    </div>
+
+    <div class="container">
+        <header class="app-header">
+            <div class="logo">
+                <i data-lucide="zap" class="logo-icon"></i>
+                <h1>Reddit<span>Pulse</span></h1>
+            </div>
+            <p class="subtitle">Top High-Engagement Discussions from This Week</p>
+        </header>
+
+        <nav class="tabs">
+            <button class="tab-btn active" data-target="n8n">
+                <i data-lucide="workflow"></i> r/n8n
+            </button>
+            <button class="tab-btn" data-target="automation">
+                <i data-lucide="bot"></i> r/automation
+            </button>
+        </nav>
+
+        <main id="content-area">
+            <!-- Content injected via JS -->
+            <div class="loader"></div>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+</html>

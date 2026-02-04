@@ -1,0 +1,96 @@
+﻿{
+  "n8n": [
+    {
+      "title": "This automation scrapes LinkedIn jobs, customizes my resume for each of them and finds the hiring managers\u2019 emails... here\u2019s how:",
+      "url": "https://i.redd.it/90yp79gp6tgg1.png",
+      "permalink": "https://reddit.com/r/n8n/comments/1qsz9qj/this_automation_scrapes_linkedin_jobs_customizes/",
+      "score": 213,
+      "ups": 179,
+      "comments": 17,
+      "created_utc": "2026-02-01 14:03:25"
+    },
+    {
+      "title": "Best Airtable Alternatives",
+      "url": "https://www.reddit.com/r/n8n/comments/1qtmaxi/best_airtable_alternatives/",
+      "permalink": "https://reddit.com/r/n8n/comments/1qtmaxi/best_airtable_alternatives/",
+      "score": 83,
+      "ups": 37,
+      "comments": 23,
+      "created_utc": "2026-02-02 05:23:38"
+    },
+    {
+      "title": "What are some better alternatives to N8N for specific tasks that does the job better?",
+      "url": "https://www.reddit.com/r/n8n/comments/1qulvma/what_are_some_better_alternatives_to_n8n_for/",
+      "permalink": "https://reddit.com/r/n8n/comments/1qulvma/what_are_some_better_alternatives_to_n8n_for/",
+      "score": 61,
+      "ups": 29,
+      "comments": 16,
+      "created_utc": "2026-02-03 07:45:51"
+    },
+    {
+      "title": "Self-hosted n8n on 1GB RAM - What's your free-tier stack?",
+      "url": "https://www.reddit.com/r/n8n/comments/1qtacof/selfhosted_n8n_on_1gb_ram_whats_your_freetier/",
+      "permalink": "https://reddit.com/r/n8n/comments/1qtacof/selfhosted_n8n_on_1gb_ram_whats_your_freetier/",
+      "score": 60,
+      "ups": 24,
+      "comments": 18,
+      "created_utc": "2026-02-01 20:50:06"
+    },
+    {
+      "title": "Starting with zero tech background. Is n8n a realistic path for me",
+      "url": "https://www.reddit.com/r/n8n/comments/1qtwq2g/starting_with_zero_tech_background_is_n8n_a/",
+      "permalink": "https://reddit.com/r/n8n/comments/1qtwq2g/starting_with_zero_tech_background_is_n8n_a/",
+      "score": 57,
+      "ups": 11,
+      "comments": 23,
+      "created_utc": "2026-02-02 14:36:58"
+    }
+  ],
+  "automation": [
+    {
+      "title": "Has anyone used LinkedIn automation? I have some worries, need insights and advice",
+      "url": "https://www.reddit.com/r/automation/comments/1qt4klw/has_anyone_used_linkedin_automation_i_have_some/",
+      "permalink": "https://reddit.com/r/automation/comments/1qt4klw/has_anyone_used_linkedin_automation_i_have_some/",
+      "score": 245,
+      "ups": 165,
+      "comments": 40,
+      "created_utc": "2026-02-01 17:25:25"
+    },
+    {
+      "title": "What automation you copied from Reddit actually worked?",
+      "url": "https://www.reddit.com/r/automation/comments/1qtqt6k/what_automation_you_copied_from_reddit_actually/",
+      "permalink": "https://reddit.com/r/automation/comments/1qtqt6k/what_automation_you_copied_from_reddit_actually/",
+      "score": 87,
+      "ups": 59,
+      "comments": 14,
+      "created_utc": "2026-02-02 09:48:23"
+    },
+    {
+      "title": "Partner wants 50% equity just for distribution. Walk away or take the deal?",
+      "url": "https://www.reddit.com/r/automation/comments/1qs4n3o/partner_wants_50_equity_just_for_distribution/",
+      "permalink": "https://reddit.com/r/automation/comments/1qs4n3o/partner_wants_50_equity_just_for_distribution/",
+      "score": 86,
+      "ups": 14,
+      "comments": 36,
+      "created_utc": "2026-01-31 15:04:21"
+    },
+    {
+      "title": "Burned my entire $20 Claude quota on ONE video. So I built my own prompt-to-video agent.",
+      "url": "https://www.reddit.com/r/automation/comments/1qr0t1q/burned_my_entire_20_claude_quota_on_one_video_so/",
+      "permalink": "https://reddit.com/r/automation/comments/1qr0t1q/burned_my_entire_20_claude_quota_on_one_video_so/",
+      "score": 74,
+      "ups": 24,
+      "comments": 25,
+      "created_utc": "2026-01-30 09:26:00"
+    },
+    {
+      "title": "What\u2019s the most practical way to automate transcription for multiple audio files?",
+      "url": "https://www.reddit.com/r/automation/comments/1qubbfx/whats_the_most_practical_way_to_automate/",
+      "permalink": "https://reddit.com/r/automation/comments/1qubbfx/whats_the_most_practical_way_to_automate/",
+      "score": 68,
+      "ups": 10,
+      "comments": 29,
+      "created_utc": "2026-02-02 23:23:11"
+    }
+  ]
+}
