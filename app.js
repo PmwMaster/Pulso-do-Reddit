@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Fetching from parent directory path - in real server this might need adjustment
             // For local file opening, we might need the user to run a server or use the file directly.
             // Assuming relative path for now.
-            const response = await fetch('../reddit_report.json');
+            const response = await fetch('./reddit_report.json');
             if (!response.ok) throw new Error('Failed to load data');
             redditData = await response.json();
             renderCategory('n8n'); // Default
